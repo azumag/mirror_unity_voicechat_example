@@ -480,7 +480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   port: 7778
-  maxMessageSize: 16384
+  maxMessageSize: 32000
   handshakeMaxSize: 3000
   noDelay: 1
   sendTimeout: 5000
